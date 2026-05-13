@@ -1,4 +1,4 @@
-# 
+# instant pump.fun sniper bot | simulation-mode + snipe-list-management is the best pump.fun sniper bot, featuring simulation-mode and snipe-list-management. Fast, smart, and
 
 
 
